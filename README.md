@@ -16,9 +16,10 @@ A seguir encontra-se o passo a passo para rodar o projeto.
 ## Rodando o servidor
 
 1. Navegue até o diretório /server
-2. Crie um arquivo .env
-3. Insira a chave da API do The Movie Database dentro dentro do arquivo .env dessa forma: API_KEY={CHAVE}
-4. Execute no terminal dentro da pasta server o seguinte comando: node .\serverConnection.js  
+3. Crie um arquivo .env
+4. Insira a chave da API do The Movie Database dentro dentro do arquivo .env dessa forma: API_KEY={CHAVE}
+5. Execute o comando npm i no terminal na pasta /server
+6. Execute no terminal dentro da pasta server o seguinte comando: node .\serverConnection.js  
 
 ## Rodando o cliente
 

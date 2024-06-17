@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&family=Poppins:wght@300;400;500&display=swap');
+
+#app {
+  margin: 0 auto;
+}
+
+body {
+  color: white;
+  margin: 0;
+  background-image: linear-gradient(to top, rgba(25,21,40,1), rgba(17,14,27,1));
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: 'Poppins', sans-serif;
+}
